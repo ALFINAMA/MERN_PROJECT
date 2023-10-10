@@ -1,0 +1,69 @@
+
+
+/* dashboard */
+.booktable{
+    background-image: url("https://c0.wallpaperflare.com/preview/932/260/985/bible-biblia-book-book-bindings.jpg");
+     width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+      
+}
+.table {
+    width: 100%;
+  
+ 
+  }
+  .table th, .table td {
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: center;
+  }
+tbody td{
+    color: antiquewhite;
+    font-size: smaller;
+    font-weight: 700;
+}
+thead td{
+    
+    color: rgb(247, 247, 5);
+    font-size: medium;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .pagination a {
+    padding: 8px 12px;
+    border: 1px solid #333;
+    margin: 0 5px;
+    text-decoration: none;
+    color: #333;
+    background-color: white;
+    cursor: pointer;
+  }
+  .pagination .active a {
+    background-color: #333;
+    color: white;
+  }
+
+
+
+/* addbook */
+.bookform label{
+    color: rgb(241, 239, 236);
+    
+}
+.bookform{
+  background-image: url("https://c0.wallpaperflare.com/preview/932/260/985/bible-biblia-book-book-bindings.jpg");
+  background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+

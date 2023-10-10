@@ -1,0 +1,41 @@
+/* .table td{
+    color: rgb(190, 179, 215);
+    font-size: medium;
+}
+*{
+    color: aqua;
+} */
+/* styleuser.css */
+
+.loginbkg {
+  
+    padding: 20px;
+  }
+  
+  .carttable {
+    width: 100%;
+    margin-top: 20px;
+   
+    border: 1px solid #ccc;
+  }
+  
+  .carttable th,
+  .carttable td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+    color: #ccc;
+  }
+  
+ 
+  
+  .button {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  
+  
+ 
+  
+  
